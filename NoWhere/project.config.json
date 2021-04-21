@@ -1,0 +1,35 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"uglifyFileName": false
+	},
+	"compileType": "game",
+	"libVersion": "2.4.3",
+	"appid": "wx13ceccc4ed82d7d9",
+	"projectname": "Nowhere",
+	"isGameTourist": true,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
